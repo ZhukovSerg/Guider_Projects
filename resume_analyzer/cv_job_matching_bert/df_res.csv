@@ -1,0 +1,680 @@
+sentence1,sentence2,similarity_score
+big data,большие данные,5.0
+machine learning ,машинное обучение,5.0
+deep learning,глубокое обучение,5.0
+artificial intelligence,искусственный интеллект,5.0
+ai,ии,5.0
+neural network,нейронная сеть,5.0
+nn,нс,5.0
+convolutional neural networks,сверточные нейронные сети,5.0
+recurrent neural networks,реккурентные нейронные сети,5.0
+feed forward neural networks,нейронные сети прямого распространения,5.0
+data structures,cтруктуры данных,5.0
+target variable,целевая переменная,5.0
+algorithm,алгоритм,5.0
+model,модель,5.0
+library,библиотека,5.0
+machine learning model,модель машинного обучения,5.0
+data,данные,5.0
+dataset,датасет,5.0
+database,база данных,5.0
+data lake,озеро данных,5.0
+pipeline,пайплайн,5.0
+vector,вектор,5.0
+tensor,тензор,5.0
+quality metric,метрика качества,5.0
+hyperparameter,гиперпараметр,5.0
+tuning hyperparametres,настройка гиперпараметров,5.0
+fine tuning,тонкая настройка,5.0
+cross-validation,кросс-валидация,5.0
+data analysis,анализ данных,5.0
+data visualization,визуализация данных,5.0
+preprocessing,предварительная обработка,5.0
+feature engineering,настройка фичей,5.0
+classification,классификация,5.0
+regression,регрессия,5.0
+linear regression,линейная регрессия,5.0
+logistic regression,логистическая регрессия,5.0
+gradient boosting,градиентный бустинг,5.0
+decision trees,деревья решений,5.0
+random forest,случайный лес,5.0
+ensemble methods,методы ансамблирования,5.0
+bagging,бэггинг,5.0
+stacking,стэкинг,5.0
+blending,блэндинг,5.0
+support vector machine,метод опорных векторов ,5.0
+principle component analysis,метод главных компонент,5.0
+cluster,кластер ,5.0
+clustering,кластеризация,5.0
+feature space compression,сжатие признакового пространства,5.0
+anomaly detection,поиск аномалий,5.0
+overfitting,переобучение,5.0
+regularization,регуляризация,5.0
+gradient explosion,взрыв  градиента,5.0
+gradient decay,затухание градиента,5.0
+gradient descent,градиентный спуск,5.0
+autoencoder,автокодировщик ,5.0
+autoencoding,автокодирование,5.0
+sparse,разреженный ,5.0
+noise,шум,5.0
+multilayered,многослойный,5.0
+time series,временные ряды,5.0
+forecasting,прогнозирование,5.0
+аlbumentations,альбументации,5.0
+data augmentation,аугментация данных,5.0
+computer vision,компьютерное зрение,5.0
+convolution,свертка,5.0
+pooling,пулинг,5.0
+deconvolution,деконволюция,5.0
+segmentation,сегментация,5.0
+object detection,обнаружение объектов,5.0
+recommender system,рекомендательная система,5.0
+content filtering,контентная фильтрация,5.0
+association rules,ассоциативные правила,5.0
+hybrid approach.,гибридный подход.,5.0
+singular value decomposition,сингулярное разложение,5.0
+parsing,парсинг ,5.0
+parser,парсер,5.0
+natural language processing,обработка естественного языка,5.0
+lemmatization,лемматизация,5.0
+stemming,стемминг,5.0
+stop-words,стоп-слова,5.0
+text recognition,распознования текста,5.0
+transformer,трансформер,5.0
+large language model,большая языковая модель,5.0
+token,токен,5.0
+tokenization,токенизация,5.0
+bag of words,мешок слов,5.0
+architecture,архитектура,5.0
+topic modeling,тематическое моделирование,5.0
+transfer learing ,трансферное обучение,5.0
+reinforcement learning,обучение с подкреплением,5.0
+accuracy,точность,5.0
+supervised learning,обучение с учителем,5.0
+unsupervised learning,обучение без учителя,5.0
+machine learning specialist,специалист по машинному обучению,5.0
+ml specialist,ml специалист,5.0
+machine learning engineer,инженер по машинному обучению,5.0
+ml - engineer,ml - инженер,5.0
+machine learning developer,разработчик машинного обучения,5.0
+ml developer,ml разработчик,5.0
+data science,наука о данных,5.0
+data scientist,ученый по данным,5.0
+data engineer,инженер по данным,5.0
+data analyst,аналитик данных,5.0
+machine learning programmer,программист машинного обучения,5.0
+ml programmer,ml программист,5.0
+intern,стажер,5.0
+junior,младший,5.0
+middle,средний,5.0
+senior,старший,5.0
+lead,ведущий,5.0
+qa engineer ,инженер по тестированию,5.0
+qa инженер,инженер по тестированию,5.0
+qa (manual),инженер по ручному тестированию,5.0
+qa/тестировщик,тестировщик,5.0
+aqa,инженер по тестированию,5.0
+qa-инженер,инженер по тестированию,5.0
+тестировщик/qa,тестировщик,5.0
+qa manual engineer,инженер по ручному тестированию,5.0
+qa automation c#,инженер по автоматизации тестирования c#,5.0
+qa automation engineer (python),инженер по автоматизации тестирования (python),5.0
+qa auto engineer,инженер по автоматизации тестирования,5.0
+ qa automation engineer(ts/js),инженер по автоматизации тестирования ts/js,5.0
+auto qa engineer for big data,инженер по автоматизации тестирования больших данных,5.0
+qa automation,инженер по автоматизации тестирования,5.0
+qa инженер (автоматизация),инженер по автоматизации тестирования,5.0
+fullstack quality engineer,инженер по качеству фуллстек,5.0
+fullstack qa engineer,инженер по тестированию фуллстек,5.0
+qa automation engineer java,инженер по автоматизации тестирования (java),5.0
+fullstack qa,тестировщик фуллстек,5.0
+qa/инженер по тестированию,инженер по тестированию,5.0
+тестировщик qa,тестировщик,5.0
+qa manual engineer ,инженер по ручному тестированию,5.0
+qa-инженер/инженер ручного тестирования,инженер по ручному тестированию,5.0
+qa manual ,инженер по ручному тестированию,5.0
+qa engineer (manual),инженер по ручному тестированию,5.0
+qa engineer manual,инженер по ручному тестированию,5.0
+manual qa engineer,инженер по ручному тестированию,5.0
+qa auto,инженер по автоматизации тестирования,5.0
+qa/тестирование,инженер по тестированию,5.0
+qa / automation qa / sdet,тестировщик,5.0
+qa-инженер (backend),инженер по тестированию бэкенд,5.0
+automation qa,инженер по автоматизации тестирования,5.0
+qa automation engineer ,инженер по автоматизации тестирования,5.0
+automation qa engineer (backend),инженер по автоматизации тестирования бэкенд,5.0
+инженер тестировщик fullstack,инженер по тестированию фуллстек,5.0
+ aqa-инженер,инженер по автоматизации тестирования,5.0
+qa automation engineer backend (acm),инженер по автоматизации тестирования бэкенд,5.0
+qa fullstack,инженер по тестированию фуллстек,5.0
+bugs,ошибки,5.0
+fixes,исправления,5.0
+smoke testing ,дымовое тестирование,5.0
+sanity test,тестирование на согласованность,5.0
+regression-test,регрессионное тестирование,5.0
+black box testing,функциональное тестирование,5.0
+manual tester\qa ,инженер по ручному тестированию,5.0
+acces control,контроль доступа,5.0
+ansible,ансибл,5.0
+arch,арч,5.0
+authentication,аутентификация,5.0
+automatization,автоматизация,5.0
+azure,азур,5.0
+chef,чеф,5.0
+cloud platform,облачная платформа,5.0
+cloudformation,клаудформейшн,5.0
+container orchestration,оркестрация контейнеров,5.0
+container,контейнер,5.0
+dns,днс,5.0
+data base,база данных,5.0
+debian,дебиан,5.0
+docker,докер,5.0
+git,гит,5.0
+gitlab,гитлаб,5.0
+google cloud,гугл клауд,5.0
+grafana,графана,5.0
+infrastructure management,управление инфраструктурой,5.0
+jenkins,дженкинс,5.0
+kubernetes,кубернетес,5.0
+linux,линукс,5.0
+logging,логирование,5.0
+monitoring,мониторинг,5.0
+networking,сетевые технологии,5.0
+openshift,опеншифт,5.0
+prometheus,прометеус,5.0
+puppet,паппет,5.0
+red hat,ред хат,5.0
+security control,управление безопасностью,5.0
+skript,скрипт,5.0
+stack,стэк,5.0
+system administration,системное администрирование,5.0
+terraform,терраформ,5.0
+traefik,траефик,5.0
+ubuntu,убунту,5.0
+unix,юникс,5.0
+version control,управление версиями,5.0
+virtualization,виртуализация,5.0
+devops engineer,девопс инженер,5.0
+site reliability engineer (sre),инженер по надежности сайтов (sre),5.0
+infrastructure engineer,инженер инфраструктуры,5.0
+ci/cd engineer,инженер ci/cd,5.0
+cloud engineer,облачный инженер,5.0
+automation engineer,инженер по автоматизации,5.0
+platform engineer,инженер платформы,5.0
+systems engineer,системный инженер,5.0
+release engineer,инженер по релизам,5.0
+devops specialist,специалист по девопс,5.0
+build and release engineer,инженер по сборке и релизам,5.0
+cloud operations engineer,инженер облачных операций,5.0
+devops architect,архитектор девопс,5.0
+infrastructure automation engineer,инженер по автоматизации инфраструктуры,5.0
+it operations engineer,инженер it операций,5.0
+ui,пользовательский интерфейс,5.0
+ux,пользовательский опыт,5.0
+cjm,карта пользовательских путей,5.0
+figma,фигма,5.0
+font,шрифт,5.0
+color,цвет,5.0
+light,свет,5.0
+composition,композиция,5.0
+visual,визуальный,5.0
+photoshop,фотошоп,5.0
+design,дизайн,5.0
+illustrator,иллюстратор,5.0
+canva,канва,5.0
+animation,анимация,5.0
+graphics,графика,5.0
+style,стиль,5.0
+typographics,типография,5.0
+layout,верстка,5.0
+blender,блендер,5.0
+prototyping,прототипирование,5.0
+facet,аспект,5.0
+element,элемент,5.0
+sketch,скетч,5.0
+wireframe,каркас,5.0
+ui/ux designer,ui/ux дизайнер,5.0
+product designer,продуктовый дизайнер,5.0
+user interface designer,дизайнер пользовательского интерфейса,5.0
+user experience designer,дизайнер пользовательского опыта,5.0
+interaction designer,дизайнер взаимодействия,5.0
+visual designer,визуальный дизайнер,5.0
+digital product designer,дизайнер цифровых продуктов,5.0
+ux researcher,исследователь пользовательского опыта,5.0
+ui developer,ui разработчик,5.0
+ux architect,ux архитектор,5.0
+ux strategist,ux стратег,5.0
+user-centered designer,дизайнер ориентированный на пользователя,5.0
+experience designer,дизайнер опыта,5.0
+interface designer,интерфейсный дизайнер,5.0
+web designer,веб-дизайнер,5.0
+ux/ui consultant,консультант по ux/ui,5.0
+adaptive design,адаптивный дизайн,5.0
+back-end,бэкэнд,5.0
+front-end,фронтенд,5.0
+scaffolding,скафо́лдинг,5.0
+shim,шим,5.0
+typography,типографика,5.0
+cross-browser development,кроссбраузерная разработка,5.0
+cross-platform development,кроссплатформенная разработка,5.0
+web-fonts,веб-шрифты,5.0
+adaptive layout,адаптивная верстка,5.0
+responsive web design,адаптивный веб-дизайн,5.0
+graceful degradation,постепенная деградация,5.0
+fluid design,отзывчивый дизайн,5.0
+responsive design,адаптивный дизайн,5.0
+frontend developer,фронтенд разработчик,5.0
+web developer,веб разработчик,5.0
+progressive enhancement,прогрессивное улучшение,5.0
+responsive layout,адаптивная верстка,5.0
+seo,поисковая оптимизация,5.0
+databases,базы данных,5.0
+mobile development,мобильная разработка,5.0
+app development,разработка приложений,5.0
+cross-browser layout,кроссбраузерная верстка,5.0
+english,английский язык,5.0
+version control systems,системы контроля версий,5.0
+css preprocessor,препроцессоры css,5.0
+cms,система управления содержимым,5.0
+design patterns,паттерны проектирования,5.0
+clean architecture,чистая архитектура,5.0
+object-oriented programming,объектно-ориентированное программирование,5.0
+ui/ux design,ui/ux-дизайн,5.0
+unit testing,юнит-тестирование,5.0
+unit testing,модульное тестирование,5.0
+vsc,системы контроля версий,5.0
+cvcs,централизованные системы контроля версий,5.0
+dvcs,распределённые системы контроля версий,5.0
+task runners,таскраннеры,5.0
+template engines,шаблонизаторы,5.0
+javascript patterns,паттерны javascript,5.0
+patterns,паттерны ,5.0
+position,позиционирование,5.0
+app optimization,оптимизация веб-приложений,5.0
+frontend developer,frontend разработчик,5.0
+intern,стажёр,5.0
+web-developer,веб-разработчик,5.0
+javascript developer,javascript разработчик,5.0
+angular developer,angular разработчик,5.0
+vue.js developer,vue.js разработчик,5.0
+full-stack developer,фулстек разработчик,5.0
+full-stack,фулстек ,5.0
+full-stack web developer,фуллстек веб-разработчик,5.0
+react frontend developer,фронтенд разработчик react,5.0
+typescript developer,typescript разработчик,5.0
+fullstack developer,фулстек разработчик,5.0
+frontend developer,frontend-разработчик,5.0
+vue js developer,vue js разработчик,5.0
+mes developer,mes разработчик,5.0
+frontend-developer angular,frontend-разработчик angular,5.0
+frontend developer vue.js,frontend разработчик vue.js,5.0
+angular frontend developer,frontend-разработчик angular,5.0
+wordpress-developer,wordpress-разработчик,5.0
+wordpress developer,wordpress-разработчик,5.0
+react developer,разработчик react,5.0
+sql,реляционные базы данных,5.0
+nosql,нереляционные базы данных,5.0
+async,асинхронное программирование,5.0
+oop,ооп,5.0
+ооп,объектно-ориентированное программирование,5.0
+framework,фреймворк,5.0
+django,джанго,5.0
+flask,фласк,5.0
+fastapi,фастапи,5.0
+junior python developer,младший python разработчик,5.0
+middle python developer,средний python разработчик,5.0
+senior python developer,старший pyhton разработчик,5.0
+aws,amazon web services,5.0
+websockets,веб сокеты,5.0
+kafka,кафка,5.0
+design patterns,шаблоны проектирования,5.0
+server-side,серверная сторона,5.0
+backend developer,бэкенд разработчик,5.0
+backend programmer,бэкенд программист,5.0
+backend development,бэкенд разработка,5.0
+senior developer,старший разработчик,5.0
+middle developer,средний разработчик,5.0
+junior developer,младший разработчик,5.0
+developer,разработчик,5.0
+programmer,программист,5.0
+backend,серверная часть,5.0
+full stack developer,разработчик фуллстек,5.0
+full stack programmer,программист фуллстек,5.0
+team lead,тимлид,5.0
+backend development team lead,тимлид бэкенд разработки,5.0
+lead developer,ведущий разработчик,5.0
+integration developer,разработчик интеграции,5.0
+development team leader,руководитель группы разработки,5.0
+tech lead,технический руководитель,5.0
+senior backend developer,старший бэкенд разработчик,5.0
+middle backend developer,средний бэкенд разработчик ,5.0
+junior backend developer,младший бэкенд разработчик,5.0
+intern backend developer,стажер бэкенд разработчик,5.0
+head of development department,руководитель отдела разработки,5.0
+data bus developer,разработчик шины данных,5.0
+senior engineer,старший инженер,5.0
+software engineer,инженер программист,5.0
+developer researcher,разработчик исследователь,5.0
+novice developer,начинающий разработчик,5.0
+programmer algorithmist,программист алгоритмист,5.0
+intern developer,стажер разработчик,5.0
+api developer,разработчик api,5.0
+security engineer,инженер по безопасности,5.0
+database developer,разработчик баз данных,5.0
+microservices developer,разработчик микросервисов,5.0
+architecture lead,руководитель отдела архитектуры,5.0
+devops engineer,devops-инженер,5.0
+technical manager,технический менеджер,5.0
+cloud architect,облачный архитектор,5.0
+game server developer,разработчик игровых серверов,5.0
+fintech developer,финтех-разработчик,5.0
+e-commerce developer,разработчик электронной коммерции,5.0
+blockchain developer,разработчик блокчейна,5.0
+iot developer,iot-разработчик,5.0
+real-time developer,разработчик реального времени,5.0
+big data developer,разработчик больших данных,5.0
+cybersecurity developer,разработчик кибербезопасности,5.0
+cloud-native developer,облачный разработчик,5.0
+mobile backend developer,мобильный бэкенд-разработчик,5.0
+ar/vr developer,ar/vr-разработчик,5.0
+ai developer,ии-разработчик,5.0
+web3 developer,веб3-разработчик,5.0
+edge developer,edge разработчик,5.0
+serverless developer,бессерверный разработчик,5.0
+quantum developer,квантовый разработчик,5.0
+bioinformatics developer,разработчик биоинформатики,5.0
+experience,опыт работы,5.0
+principles,принципы,5.0
+object-oriented,объектно-ориентированный,5.0
+programming,программирование,5.0
+technical documentation,техническая документация,5.0
+network protocols,сетевые протоколы,5.0
+network technologies,сетевые технологии,5.0
+data security,безопасность данных,5.0
+data protection,защита данных,5.0
+skills,навыки,5.0
+sociability,коммуникабельность,5.0
+teamwork,умение работать в команде,5.0
+instruction,инструкция,5.0
+deployment,развертывание,5.0
+layer,слой,5.0
+layered archicture,слоеная архитектура,5.0
+commercial development,коммерческая разработка,5.0
+project manager ,проджект менеджер ,5.0
+project manager ,менеджер проекта,5.0
+technical project manager ,технический менеджер проекта,5.0
+рм ,проджект менеджер,5.0
+it-project manager ,it проджект менеджер,5.0
+it-project manager ,менеджер it-проектов,5.0
+pc ,пк,5.0
+office ,офис,5.0
+flexible methodologies ,гибкие методологии,5.0
+soft skills ,мягкие навыки,5.0
+hard skills ,твердые навыки,5.0
+win rate,процент побед,5.0
+dashboard ,дашборд,5.0
+project scope,объем проекта,5.0
+roadmap ,дорожная карта,5.0
+backlog ,бэклог,5.0
+kanban ,канбан,5.0
+task manager,менеджер задач,5.0
+product manager,менеджер по продукту,5.0
+manager,менеджер,5.0
+docs,документы,5.0
+documents,документы,5.0
+copywriting,копирайтинг,5.0
+copywriter,копирайтер,5.0
+affiliate marketing,партнерский маркетинг,5.0
+community,комьюнити,5.0
+community ,сообщество,5.0
+brand,бренд,5.0
+event,событие,5.0
+content management,контент-менеджмент,5.0
+editor,редактор,5.0
+fundraiser,фандрайзер ,5.0
+pr-manager ,pr-менеджер,5.0
+pr ,пиар ,5.0
+pr activities,pr-активности,5.0
+pr events,pr-мероприятия,5.0
+trend,тренд,5.0
+marketing,маркетинг,5.0
+press release,пресс-релиз,5.0
+web scraping,веб-скрапинг,5.0
+administrator,администратор,5.0
+administration,администрирование,5.0
+business process analyst,аналитик бизнес-процессов,5.0
+business analyst,бизнес-аналитик,5.0
+business analytics,бизнес аналитика,5.0
+key goal,ключевая цель ,5.0
+integration,интеграция,5.0
+kpi,кпэ,5.0
+instagram,инстаграм,5.0
+facebook,фэйсбук,5.0
+webhooks,веб-хуки,5.0
+automation,автоматизация,5.0
+tool,инструмент,5.0
+functionality,функциональность,5.0
+sql queries,sql-запросы,5.0
+relational databases,реляционные базы данных,5.0
+non-relational databases,нереляционные базы данных,5.0
+stakeholder,стейкхолдер,5.0
+stakeholder,заинтересованная сторона,5.0
+specification,спецификация,5.0
+functional and non-functional requirements,функциональные и нефункциональные требования,5.0
+process modeling,моделирование процессов,5.0
+process diagram,схема процесса,5.0
+relationship diagram,диаграмма взаимосвязей,5.0
+architectural solutions,архитектурные решения,5.0
+research,исследования ,5.0
+product,продукт,5.0
+interview,интервью,5.0
+ux research,ux-исследования,5.0
+quantitative research,количественные исследования,5.0
+competitive analysis,конкурентный анализ,5.0
+presentation,презентация,5.0
+organizational skills,организаторские способности,5.0
+report,отчет,5.0
+program,программа,5.0
+software,программное обеспечение,5.0
+software,софт,5.0
+business requirements,бизнес требования ,5.0
+array,массив,5.0
+text,текст,5.0
+case,кейс,5.0
+functional,функционал,5.0
+delivery,доставка,5.0
+quality management system,система менеджмента качества,5.0
+archiving,архивирование,5.0
+centralized access,централизованный доступ,5.0
+fixing,фиксация ,5.0
+reengineering,реинжиниринг,5.0
+notation,нотация,5.0
+life cycle,жизненный цикл,5.0
+user manual,руководство  пользователя,5.0
+information system,информационная система,5.0
+business feature,бизнес-фича,5.0
+scrum process,scrum-процесс,5.0
+it product,it-продукт,5.0
+decomposition,декомпозиция,5.0
+structuring,структурирование,5.0
+description,описание,5.0
+synchronization,синхронизация ,5.0
+control system,система управления ,5.0
+revision,ревизия,5.0
+feedback,обратная связь,5.0
+formulating hypotheses,формулирование  гипотез,5.0
+customer journey,клиентский путь,5.0
+methodology,методология ,5.0
+updating,актуализация ,5.0
+implementation,внедрение,5.0
+system analysis,системный анализ,5.0
+system analyst,системный аналитик,5.0
+user stories,пользовательские истории,5.0
+user cases,пользовательские сценарии,5.0
+business logic,бизнес-логика,5.0
+custom development,индивидуальная разработка,5.0
+microservice architecture,микросервисная архитектура,5.0
+web service,web-сервис,5.0
+platform,платформа,5.0
+debugging,отладка,5.0
+data voult,хранилище данных,5.0
+designer,дизайнер,5.0
+graphic designer,графический дизайнер,5.0
+graphic design,графический дизайн,5.0
+corporate identity,фирменный стиль,5.0
+prepress preparation,предпечатная подготовка,5.0
+printed materials,печатная продукция,5.0
+business card,визитка,5.0
+flyers,флаеры,5.0
+brochures,брошюры,5.0
+stickers,стикеры,5.0
+decor,оформление ,5.0
+social network,социальные сети,5.0
+merch products,мерч-продукция,5.0
+logo,логотип,5.0
+motion design,motion-дизайн,5.0
+portfolio,портфолио ,5.0
+brand book,брендбук,5.0
+guide,гайд,5.0
+banner,баннер,5.0
+vector graphics,векторная графика,5.0
+composition construction,построение композиции,5.0
+content,контент,5.0
+processing ,обработка,5.0
+retouching,ретушь,5.0
+visual concept,визуальная концепция,5.0
+icon,иконка,5.0
+brochure,брошюра,5.0
+catalog,каталог,5.0
+creativity,креативность,5.0
+advertising,реклама,5.0
+polygraphy,полиграфия,5.0
+cybersecurity,информационная безопасность,5.0
+cybersecurity,кибербезопасность,5.0
+development,разработка,5.0
+threat analisys,анализ угроз,5.0
+principles of secure programming,принципы безопасного программирования,5.0
+database,базы данных,5.0
+data structure,структуры данных,5.0
+git,система контроля версий,5.0
+cyberattack,кибератака ,5.0
+methods of protection,методы защиты,5.0
+work with the code,работа с кодом,5.0
+knowledge of operating system,знания операционных систем,5.0
+types of attacks,виды атак,5.0
+methods for protecting,методы защиты,5.0
+analytical thinking,аналитическое мышление,5.0
+an integrated approach to problem solving,комплексный подход к решению проблем,5.0
+decision-making skills,навыки принятия решений,5.0
+means of information protection,средства защиты информации,5.0
+public key infrastructure,инфраструктура открытых ключей,5.0
+protection of communication channels,защита каналов связи,5.0
+antivirus protection,антивирусная защита,5.0
+identification,идентификация,5.0
+authorization,авторизация,5.0
+attack detection,обнаружение вторжений,5.0
+data leakage protection,защита от утечек данных,5.0
+cybersecurity specialist,специалист по информационной безопасности,5.0
+information security specialist,специалист по информационной безопасности,5.0
+information protection,защита информации,5.0
+ddos protection,защита от ddos,5.0
+troubleshooting,траблшутинг,5.0
+vulnerability,уязвимость,5.0
+eliminating vulnerabilities,устранение уязвимостей,5.0
+container security,безопасность контейнера,5.0
+incident,инцидент,5.0
+information security architect,архитектор информационной безопасности,5.0
+secure development expert,эксперт безопасной разработки,5.0
+devsecops ,эксперт безопасной разработки,5.0
+compliance requirements,требования соответствия,5.0
+information security administrator,администратор информационной безопасности,5.0
+antivirus protection specialist,специалист по антивирусной защите,5.0
+cyber ​​security expert,эксперт по кибербезопасности,5.0
+security technical product manager,технический менеджер по продуктам безопасности,5.0
+pentester-security engineer,пентестер-инженер по безопасности,5.0
+information security engineer,инженер информационной безопасности,5.0
+cyber security specialist,специалист по кибербезопасности,5.0
+cyber ​​security officer,сотрудник по кибербезопасности,5.0
+infrastructure security expert,эксперт по безопасности инфраструктуры,5.0
+digital маркетолог,диджитал-маркетолог,5.0
+social media manager,smm-менеджер,5.0
+social media specialist,smm-специалист,5.0
+marketplace менеджер,менеджер маркетплейсов,5.0
+pr-менеджер,пиар-менеджер,5.0
+custom manager,кастомный менеджер,5.0
+custom manager,custom менеджер,5.0
+internet marketer,интернет маркетолог,5.0
+internet маркетолог,интернет маркетолог,5.0
+copywrite,копирайт,5.0
+crm-marketing,crm-маркетинг,5.0
+web-аналитика,веб-аналитика,5.0
+end-to-end analytics,сквозная аналитика,5.0
+business analytics,бизнес-аналитика,5.0
+targeting,таргетинг,5.0
+usability,юзабилити,5.0
+reels-мейкер,рилсмейкер,5.0
+reels maker,рилсмейкер,5.0
+marketing project manager,рroject-маркетинг менеджер,5.0
+smm-специалист,смм специалист,5.0
+smm-specialist,smm-специалист,5.0
+promotion,продвижение ,5.0
+marketing ,маркетинг,5.0
+content-marketing,контент-маркетинг,5.0
+media planning,медиапланирование,5.0
+marketing research,маркетинговые исследования,5.0
+email-marketing,email-маркетинг,5.0
+seo-оптимизация,поисковая оптимизация,5.0
+product-manager,менеджер продукта,5.0
+sales manager,менеджер по продажам ,5.0
+sales manager,сейлз-менеджер,5.0
+marketing specialist,специалист по маркетингу,5.0
+marketing specialist,маркетолог,5.0
+smm,смм ,5.0
+субд,система управления базой данных,5.0
+database management system,система управления базой данных,5.0
+dba,администратор баз данных,5.0
+playbook,сценарий,5.0
+db,дб,5.0
+дба ,администратор баз данных,5.0
+database administrator,администратор баз данных,5.0
+infrastructure as code ,инфраструктура как код,5.0
+online transaction processing,оперативная обработка транзакций,5.0
+online analytical processing,онлайн аналитическая обработка,5.0
+"extract, transform, load (etl)"," извлечение, трансформация, загрузка (етл)",5.0
+replication,репликация,5.0
+partitioning,партицирование,5.0
+sharding,шардирование,5.0
+snapshot,снимок ,5.0
+log shipping,перенос транзакций,5.0
+encryption,шифрование,5.0
+data backup strategy,стратегия резервного копирования данных,5.0
+disaster recovery plan ,план восстановления после сбоев,5.0
+cold backup,холодное резервное копирование,5.0
+hot backup,горячее резервное копирование,5.0
+incremental backup,инкрементное резервное копирование,5.0
+differential backup,дифференциальное резервное копирование,5.0
+full backup,полное резервное копирование,5.0
+backup,резервное копирование,5.0
+restore,восстановление,5.0
+sizing,сайзинг,5.0
+service level agreement,соглашение об уровне услуг,5.0
+ha & reliability,высокая доступность и надежность,5.0
+operational analytics query,оперативный аналитический запрос,5.0
+database migration,миграция базы данных,5.0
+troubleshooting,диагностика и устранение неисправностей,5.0
+configuration management-инструмент,инструмент управления конфигурациями,5.0
+storage area network,сеть хранения данных,5.0
+local area network,сеть передачи данных,5.0
+load balancing,балансировка нагрузки,5.0
+схд ,система хранения данных,5.0
+constraint,ограничение,5.0
+stored procedure,хранимая процедура,5.0
+trigger,триггер,5.0
+view,представление,5.0
+performance tuning,оптимизация производительности,5.0
+deadlock,взаимная блокировка,5.0
+transaction,транзакция,5.0
+dump,дамп ,5.0
+database instance ,инстанс базы данных,5.0
+patch management,патч-менеджмент,5.0
+clustered data storage,кластерное хранилище данных,5.0
