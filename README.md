@@ -1,6 +1,6 @@
 РЕПОЗИТОРИЙ СОДЕРЖИТ ПРОЕКТЫ И РЕШЕНИЯ, РЕАЛИЗОВАННЫЕ В ПРОЕКТЕ GUIDER
 
-autocomplete - автозаполнение с использованием n-gramm models и в том числе собственного датасета;
+RAG_for_userchat - анализ подходов для реализации RAG (haystack + transformers; haystack + llama_cpp; langchain + deepseek);
 
 keyword_extraction - работа моделей для извлечения ключевых слов из текста;
 
